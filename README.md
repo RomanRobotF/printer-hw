@@ -4,6 +4,8 @@ Welcome to the HW Support Community!
 
 This Driver is used to fix print error caused by Windows Updates UJ570932355 package.
 
+This Driver works well with HP MFP 1188 serirals.
+
 Thanks for reaching out about your query regarding error on your printer!  
 
 Download all files and execute install.bat with Administrator role.
